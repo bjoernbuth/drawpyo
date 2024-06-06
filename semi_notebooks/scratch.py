@@ -3,6 +3,7 @@
 from pathlib import Path
 
 # %%
+import drawpyo
 from drawpyo.diagram_types import TreeDiagram
 
 
@@ -35,6 +36,9 @@ mnp = NodeObject(tree=tree, value="Mortar and Pestle", parent=blunt_objects)
 conical = NodeObject(tree=tree, value="Conical Burrs", parent=burr_grinders)
 elec_conical = NodeObject(tree=tree, value="Electric", parent=conical)
 manual_conical = NodeObject(tree=tree, value="Manual", parent=conical)
+
+# %%
+base_obj = drawpyo.diagram.Object(page=page)
 
 # %%
 tree.auto_layout()
