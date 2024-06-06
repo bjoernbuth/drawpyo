@@ -1,0 +1,61 @@
+<mxfile host="Electron" modified="2024-06-06T16:29:57.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.13 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" version="24.4.13" etag="rZqlS2aHCjebe9NnW5nJ" type="device">
+  <diagram name="Page-1" id="2285514475360">
+    <mxGraphModel dx="2233" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2285514481984" value="Appliances for Grinding Coffee" style="whiteSpace=wrap;rounded=0;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="365" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514483616" value="Blade Grinders" style="whiteSpace=wrap;rounded=0;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="162.5" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514488080" value="Burr Grinders" style="whiteSpace=wrap;rounded=0;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="365" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514477808" value="Blunt Objects" style="whiteSpace=wrap;rounded=0;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="567.5" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514475120" value="Electric Blade Grinder" style="whiteSpace=wrap;rounded=0;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="162.5" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514485392" value="Mortar and Pestle" style="whiteSpace=wrap;rounded=0;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514477568" value="Conical Burrs" style="whiteSpace=wrap;rounded=0;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="365" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514486880" value="Electric" style="whiteSpace=wrap;rounded=0;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="297.5" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514482752" value="Manual" style="whiteSpace=wrap;rounded=0;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="432.5" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514481744" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="2285514481984" target="2285514483616" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514481648" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="2285514483616" target="2285514475120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514482320" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="2285514481984" target="2285514488080" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514488560" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="2285514488080" target="2285514477568" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514478432" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="2285514477568" target="2285514486880" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514477088" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="2285514477568" target="2285514482752" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514480688" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="2285514481984" target="2285514477808" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2285514488464" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="2285514477808" target="2285514485392" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
